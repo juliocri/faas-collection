@@ -1,0 +1,6 @@
+
+ignored = ["github.com/kubeless/kubeless/pkg/functions"]
+
+[[constraint]]
+  branch = "master"
+  name = "github.intel.com/wtd/dbaas"
