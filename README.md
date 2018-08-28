@@ -1,7 +1,7 @@
 # Installation
 
 * Install kubeless (https://kubeless.io/docs/quick-start/)
-* ``` $ git clone https://github.intel.com/juliocri/dbaas-kubeless.git ```
+* ``` $ git clone https://github.com/juliocri/faas-collection.git ```
 
 # Usage
 
