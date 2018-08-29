@@ -5,7 +5,7 @@
 
 # Usage
 
-* ``` $ cd dbaas-kubeless ```
+* ``` $ cd faas-collection ```
 
 ### General
 
