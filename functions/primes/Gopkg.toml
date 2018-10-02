@@ -1,0 +1,2 @@
+
+ignored = ["github.com/kubeless/kubeless/pkg/functions"]
