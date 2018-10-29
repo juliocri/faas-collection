@@ -2,7 +2,6 @@ package kubeless
 
 import (
 	"encoding/json"
-	"fmt"
 	"github.com/kubeless/kubeless/pkg/functions"
 	"sync"
 )
